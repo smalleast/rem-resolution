@@ -1,0 +1,25 @@
+{
+  "name": "resolution",
+  "version": "0.0.0",
+  "description": "Check the devicePixelRatio/resolutions for different device.",
+  "homepage": "https://github.com/smalleast/resolution",
+  "author": {
+    "name": "smalleast",
+    "email": "382026180@qq.com"
+  },
+  "main": "dist/resolution.js",
+  "scripts": {
+    "test": "gulp test",
+    "build": "gulp"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "yargs": "^4.7.1"
+  }
+}

@@ -1,0 +1,35 @@
+body {
+  font-size: 0.4rem;
+}
+
+h1 {
+  font-size: 0.4rem;
+}
+
+.body-text {
+  background: #eee;
+  border: 1px solid #999;
+  width: 75%;
+  padding: 0.4rem;
+  margin: 1rem auto 0;
+}
+
+.f18 {
+  font-size: 0.36rem;
+}
+
+.f16 {
+  font-size: 0.32rem;
+}
+
+.f14 {
+  font-size: 0.28rem;
+}
+
+.f12 {
+  font-size: 0.24rem;
+}
+
+.f10 {
+  font-size: 0.2rem;
+}
